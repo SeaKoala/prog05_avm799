@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aknk0/Documents/College/312/prog05_avm799/Song.h
+string
+-
+
+C:/Users/aknk0/Documents/College/312/prog05_avm799/UtPod.cpp
+iostream
+-
+UtPod.h
+C:/Users/aknk0/Documents/College/312/prog05_avm799/UtPod.h
+ctime
+-
+stdlib.h
+-
+
+C:/Users/aknk0/Documents/College/312/prog05_avm799/UtPod.h
+Song.h
+C:/Users/aknk0/Documents/College/312/prog05_avm799/Song.h
+
+C:/Users/aknk0/Documents/College/312/prog05_avm799/UtPodDriver.cpp
+cstdlib
+-
+iostream
+-
+Song.h
+C:/Users/aknk0/Documents/College/312/prog05_avm799/Song.h
+UtPod.h
+C:/Users/aknk0/Documents/College/312/prog05_avm799/UtPod.h
+
